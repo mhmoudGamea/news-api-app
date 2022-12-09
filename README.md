@@ -1,16 +1,30 @@
-# news_app
+##### more screenshots about this app in demo screenshot folder
 
-A new Flutter project.
+<div style="display:flex; justify-content: center; align-items: center">
+  <img src='demo%20screenshoots/Screenshot_20221209-082943.png' width='230'/>
+  <img src='demo%20screenshoots/Screenshot_20221209-082931.png' width='230'/>
+  <img src='demo%20screenshoots/Screenshot_20221209-083131.png' width='230'/>
 
-## Getting Started
+  <img src='demo%20screenshoots/Screenshot_20221209-095729.png' width='230'/>
+  <img src='demo%20screenshoots/Screenshot_20221209-094251.png' width='230'/>
+  <img src='demo%20screenshoots/Screenshot_20221209-084650.png' width='230'/>
+</div>
 
-This project is a starting point for a Flutter application.
+<hr/>
+<h4>what i learn</h4>
 
-A few resources to get you started if this is your first Flutter project:
+<ul>
+  <li>revise on sharedPreferences, Dark and Light mode, using theme and dark theme</li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<hr/>
+<h4>new packages</h4>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<li>SvgPicture</li>
+
+<hr/>
+<h4>what i add</h4>
+
+<ul>
+  <li>i use Provider state management instead of bloc, using http instead of Dio</li>
+</ul>
